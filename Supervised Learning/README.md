@@ -2,6 +2,11 @@
 
 Regression is a type of supervised learning where the goal is to predict a number that can vary along a continuous scale, like guessing someone's house price or the temperature tomorrow. This involves identifying relationships between input features and a continuous output value.
 
+<p align="center">
+  <img src="Images/Regression.png" width="500"><br>
+  <b>Figure 1:</b> Regression
+</p>
+
 ## Regression.py
 
 **Output Description**: This code would produce five numerical predictions representing the disease progression values for the first five samples in the dataset. These values are continuous numbers that reflect the predicted severity of diabetes based on the patient's features.
@@ -11,6 +16,11 @@ Regression is a type of supervised learning where the goal is to predict a numbe
 # Classification
 
 Classification tasks are about predicting categorical outcomes. For instance, a healthcare provider might use patient data to classify individuals as either having a certain condition or not—here, outcomes are discrete categories, such as "diabetic" or "non-diabetic."
+
+<p align="center">
+  <img src="Images/Classification.png" width="500"><br>
+  <b>Figure 1:</b> Classification
+</p>
 
 ## Classification.py
 
